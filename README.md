@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## :heavy_exclamation_mark: About Me
 - I grew up in Brampton, ON. and studied Computer Science (Hons.) at Carleton University, Ottawa, ON. (courses are over, just waiting to graduate in November!)
 - I studied about cybersecurity and Artificial Intelligence
@@ -33,3 +34,5 @@ Here are some ideas to get you started:
 
 ## My GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/spiltbeans?template=classic&base.header=0&languages=1&gists=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.skipped=comp4203_g9&languages.limit=8&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&gists=false&stackoverflow=false&stackoverflow.user=22116778&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=3&stackoverflow.lines.snippet=2&config.timezone=America%2FToronto)
+
+![](https://komarev.com/ghpvc/?username=spiltbeans)

@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - I'm currently interested in comparing web technologies' rendering and state management strategies, particularly in moving past the virtual DOM.
 
 ## My Latest GitHub Activity
-1. :pencil2: Co-authored PR [#44436](https://github.com/vercel/next.js/pull/44436) in [vercel/Next.js](https://github.com/vercel/next.js)
+1. 🎉 Co-authored Merged PR [#44436](https://github.com/vercel/next.js/pull/44436) in [vercel/Next.js](https://github.com/vercel/next.js)
 2. 🎉 Merged PR [#274](https://github.com/Swatinem/rollup-plugin-dts/pull/274) in [Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts)
 3. :mailbox_with_mail: Submitted PR [#7866](https://github.com/chakra-ui/chakra-ui/pull/7866) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 

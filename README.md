@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Eyas 👋
 
 <!--
 **spiltbeans/spiltbeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :heavy_exclamation_mark: About Me
-- My name is Eyas, I grew up in Brampton, ON. and studied Computer Science (Hons.) at Carleton University, Ottawa, ON. (courses are over, just waiting to graduate in November!)
+- I grew up in Brampton, ON. and studied Computer Science (Hons.) at Carleton University, Ottawa, ON. (courses are over, just waiting to graduate in November!)
+- I studied about cybersecurity and Artificial Intelligence
 - I'm a software developer with 5 years of experience in professional work, hackathons, and personal projects.
 
 ## What I'm up to

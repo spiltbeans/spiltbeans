@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 📖 About Me
-- I grew up in Brampton, ON. and studied Computer Science (Hons.) at Carleton University, Ottawa, ON. (courses are over, just waiting to graduate in November!)
+- I grew up in Brampton, ON. and studied Computer Science (Hons.) at Carleton University, Ottawa, ON.
 - I studied software development, cybersecurity and artificial intelligence
 - I have 5 years of experience in software development through professional work, hackathons, and personal projects.
 
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   - Recent posts:
     - <a href="https://eyas.ca/projects/nottdbot/" target="_blank">Project post: NotTDBot</a>
     - <a href="https://eyas.ca/projects/console-dictation/" target="_blank">Project post: console-dictation</a>
-- I'm currently interested in comparing web technologies' rendering and state management strategies, particularly in moving past the virtual DOM.
+- I work as a full stack developer at Intouch Insight, a customer experience solutions company in Ottawa, ON.
+- My current interests are comparing web technologies' rendering and state management strategies, particularly in moving past the virtual DOM.
 
 ## 🏃🏻 My Latest GitHub Activity
 1. 🎉 Co-authored Merged PR [#44436](https://github.com/vercel/next.js/pull/44436) in [vercel/Next.js](https://github.com/vercel/next.js)

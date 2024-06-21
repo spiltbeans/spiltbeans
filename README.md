@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 📖 About Me
 - I grew up in Brampton, ON. and studied Computer Science (Hons.) at Carleton University, Ottawa, ON.
-- I studied software development, cybersecurity and artificial intelligence
+- I specialized in cybersecurity and artificial intelligence
 - I have 5 years of experience in software development through professional work, hackathons, and personal projects.
 
 ## 🤹 What I'm up to
